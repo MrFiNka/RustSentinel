@@ -16,29 +16,29 @@
 
 > [rustPlusPlus-Credentials Расширение для Firefox](https://addons.mozilla.org/en-US/firefox/addon/rustplusplus-credential-app)
 
-   ![rustplusplus Нажмите на Установить Расширение](images/bot_setup/click_install_extension.png)
+   ![rustplusplus Нажмите на Установить Расширение](../../images/bot_setup/click_install_extension.png)
 
-   ![rustplusplus После нажатия на Установить Расширение](images/bot_setup/after_click_install_extension.png)
+   ![rustplusplus После нажатия на Установить Расширение](../../images/bot_setup/after_click_install_extension.png)
 
 3. **Нажмите кнопку Войти, чтобы продолжить вход в Steam.**
 
-   ![Вход в аккаунт Steam](images/bot_setup/steam_login_web.png)
+   ![Вход в аккаунт Steam](../../images/bot_setup/steam_login_web.png)
 
 4. **После входа вы будете перенаправлены на страницу отображения, где будет показана команда слэш `/credentials add ....`**
 
-   ![Страница отображения rustplusplus](images/bot_setup/rustplusplus_display_page.png)
+   ![Страница отображения rustplusplus](../../images/bot_setup/rustplusplus_display_page.png)
 
 5. **Нажмите `Скопировать`, чтобы скопировать команду слэш.**
 
-   ![Копирование учетных данных](images/bot_setup/click_copy_to_clipboard.png)
+   ![Копирование учетных данных](../../images/bot_setup/click_copy_to_clipboard.png)
 
 6. **Вставьте команду слэш в текстовый канал вашего сервера Discord. Конкретный текстовый канал не важен, главное, чтобы бот имел к нему доступ.**
 
-   ![FCM Учетные данные Discord](images/bot_setup/credentials_discord.png)
+   ![FCM Учетные данные Discord](../../images/bot_setup/credentials_discord.png)
 
 7. **Этот процесс одинаков для владельца бота и для любого члена команды, который хочет зарегистрировать свои учетные данные (в основном для расширения использования команды лидера). После того как член команды зарегистрировал свои учетные данные, ему необходимо зайти в игру и связаться с сервером. Члены команды, связанные с сервером, могут быть видны в информационном канале, обозначенные значком P рядом с их именем, как показано ниже:**
 
-   ![Члены команды, связанные с сервером](images/bot_setup/teammates_paired.png)
+   ![Члены команды, связанные с сервером](../../images/bot_setup/teammates_paired.png)
 
 ## Почему необходимы учетные данные?
 
