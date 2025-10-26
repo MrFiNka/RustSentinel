@@ -5,10 +5,10 @@
 3. Нажмите `ESC`, а затем выберите `Rust+`.
 4. Нажмите `ПАРА С СЕРВЕРОМ`.
 
-![Изображение подключения к серверу](images/bot_setup/pairing_server.png)
+![Изображение подключения к серверу](../../images/bot_setup/pairing_server.png)
 
 5. После того как вы подключите сервер, он должен появиться в текстовом канале Discord `servers`.
 
-![Сервер в канале servers](images/channels/servers_channel.png)
+![Сервер в канале servers](../../images/channels/servers_channel.png)
 
 6. Оттуда просто нажмите кнопку `ПОДКЛЮЧИТЬ`, и бот подключится к серверу Rust.
